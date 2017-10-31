@@ -1,0 +1,7 @@
+[package]
+name = "nom_test"
+version = "0.1.0"
+authors = ["thomasdelacour <thomas.delacour@mongodb.com>"]
+
+[dependencies]
+nom = "^3.2"
